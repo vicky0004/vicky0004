@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicky0004
 - 👀 I’m interested in challenges.
-- 🌱 I’m currently learning Shell Scripting
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on Projects
 - 📫 linkedIn:www.linkedin.com/in/vicky-cse04
 
