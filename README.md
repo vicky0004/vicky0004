@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vicky0004
 - 👀 I’m interested in challenges.
 - 🌱 I’m currently learning React.js and Node.js
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on Projects, internships, full time job
+- 
 - 📫 linkedIn:www.linkedin.com/in/vicky-cse04
 
 <!---
