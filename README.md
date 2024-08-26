@@ -7,10 +7,12 @@
 - # My Projects:
 -  ## Real Time Chat Application using MERN and Socket.io
   - Hosted on render : https://chatingapp-wsyc.onrender.com/
+  - Tech used: React.js, Node.js, Express, MongoDB, Socket.io, Tailwind css, DaisyUI
 -  ## Live Weather Forcaste App using React.js and openAPI
   - Hosted on netlify : https://weather0004.netlify.app/
+  - Tech used: React.js, Api, Axios, Bootstrap
 -  ## CSAR website
-  - Hosted on infinityfree: csarcutm.infinityfreeapp.com/
+  - Hosted on infinityfree: [csarcutm.infinityfreeapp.com/](https://csarcutm.infinityfreeapp.com/)
   - Tech used: HTML, CSS, Javascript, PHP, Mysql, Bootstrap
 
 <!---
