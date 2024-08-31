@@ -6,8 +6,8 @@
 - 📫 linkedIn:www.linkedin.com/in/vicky-cse04
   # My Projects:
 -  ## Real Time Chat Application using MERN and Socket.io
-    Hosted on render : https://chatingapp-wsyc.onrender.com/
-    Tech used: React.js, Node.js, Express, MongoDB, Socket.io, Tailwind css, DaisyUI
+    - Hosted on render : https://chatingapp-wsyc.onrender.com/
+    - Tech used: React.js, Node.js, Express, MongoDB, Socket.io, Tailwind css, DaisyUI
 -  ## Live Weather Forcaste App using React.js and openAPI
     Hosted on netlify : https://weather0004.netlify.app/
     Tech used: React.js, Api, Axios, Bootstrap
