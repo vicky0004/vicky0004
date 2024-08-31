@@ -9,11 +9,11 @@
     - Hosted on render : https://chatingapp-wsyc.onrender.com/
     - Tech used: React.js, Node.js, Express, MongoDB, Socket.io, Tailwind css, DaisyUI
 -  ## Live Weather Forcaste App using React.js and openAPI
-    Hosted on netlify : https://weather0004.netlify.app/
-    Tech used: React.js, Api, Axios, Bootstrap
+    - Hosted on netlify : https://weather0004.netlify.app/
+    - Tech used: React.js, Api, Axios, Bootstrap
 -  ## CSAR website
-    Hosted on infinityfree: [csarcutm.infinityfreeapp.com/](https://csarcutm.infinityfreeapp.com/)
-    Tech used: HTML, CSS, Javascript, PHP, Mysql, Bootstrap
+    - Hosted on infinityfree: [csarcutm.infinityfreeapp.com/](https://csarcutm.infinityfreeapp.com/)
+    - Tech used: HTML, CSS, Javascript, PHP, Mysql, Bootstrap
 
 <!---
 vicky0004/vicky0004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
