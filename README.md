@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects, internships, full time job
 - 📧 contact me: [csevicky03@gmail.com](mailto:csevicky03@gmail.com) 
 - 📫 linkedIn:www.linkedin.com/in/vicky-cse04
-- # My Projects:
+  # My Projects:
 -  ## Real Time Chat Application using MERN and Socket.io
   - Hosted on render : https://chatingapp-wsyc.onrender.com/
   - Tech used: React.js, Node.js, Express, MongoDB, Socket.io, Tailwind css, DaisyUI
